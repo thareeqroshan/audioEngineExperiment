@@ -138,15 +138,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="compress.cpp" />
     <ClCompile Include="aplayer.cpp" />
     <ClCompile Include="audio.cpp" />
     <ClCompile Include="sinewave.cpp" />
+    <ClCompile Include="open.cpp" />
+    <ClCompile Include="winmain.cpp" />
     <ClCompile Include="winplayr.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aplayer.h" />
     <ClInclude Include="audio.h" />
+    <ClInclude Include="compress.h" />
+    <ClInclude Include="open.h" />
     <ClInclude Include="sinewave.h" />
+    <ClInclude Include="winmain.h" />
     <ClInclude Include="winplayr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -27,6 +27,15 @@
     <ClCompile Include="winplayr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="open.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="winmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="compress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="audio.h">
@@ -39,6 +48,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="winplayr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="open.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="winmain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="compress.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
